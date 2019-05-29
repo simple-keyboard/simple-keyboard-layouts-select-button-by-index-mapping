@@ -54,9 +54,9 @@ console.log(layout);
 /**
  * Update simple-keyboard when input is changed directly
  */
-document.querySelector(".input").addEventListener("input", event => {
+/*document.querySelector(".input").addEventListener("input", event => {
   keyboard.setInput(event.target.value);
-});
+});*/
 
 console.log(keyboard);
 
